@@ -44,6 +44,10 @@ This project was generated with Angular CLI version 16.2.1.
 ## Development server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
+## Backend server
+Run spring application as a spring boot app. Navigate to http://localhost:8000/. Also, make changes in the application.properties(database related things) file accordingly.
+
+
 ## Code scaffolding
 Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
 
@@ -106,6 +110,8 @@ This mode makes you as a user and you can perform various activities like...
 
 
 ## UI Overview ❤️
+
+![App Screenshot](https://github.com/manjeetgodara/ELearning-Management-System/blob/main/Images/Ui4.png)
 
 ![App Screenshot](https://github.com/manjeetgodara/ELearning-Management-System/blob/main/Images/UI1.png)
 
